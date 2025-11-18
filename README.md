@@ -12,3 +12,11 @@ npm create astro@latest
 cd nome-del-tuo-progetto
 npm install
 ```
+## Avvio del Progetto
+Per avviare il server di sviluppo, esegui:
+```bash
+npm run dev
+```
+Questo avvierà un server locale e potrai visualizzare il tuo sito web all'indirizzo `http://localhost:3000`.
+## Documentazione
+Per ulteriori informazioni su come utilizzare Astro, visita la documentazione ufficiale: [https://docs.astro.build](https://docs.astro.build)
